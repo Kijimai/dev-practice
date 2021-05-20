@@ -40,7 +40,7 @@
 #### General
 | Link | Idioma |
 | ----- | :-----: |
-| [100daysfrontend](http://100daysfrontend.com/) | :us: |
+| [100DaysOfCode](https://www.100daysofcode.com/) | :us: |
 | [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | :us: |
 | [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
 | [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
